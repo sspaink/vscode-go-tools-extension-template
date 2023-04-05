@@ -1,0 +1,1 @@
+# vscode-go-tools-extension-template
